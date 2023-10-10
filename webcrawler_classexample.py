@@ -1,3 +1,4 @@
+# This is an example on the computing for business research course
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
